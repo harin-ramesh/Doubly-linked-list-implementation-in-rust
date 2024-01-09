@@ -1,2 +1,2 @@
-# concurrent_blocking_queue
+# concurrent_blocking_queue [WIP]
 Blocking queue implementtion in rust!
